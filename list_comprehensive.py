@@ -1,4 +1,4 @@
-list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+list = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango", "lemon", "grape", "watermelon"]
 newList = [];
 
 for x in list:
