@@ -12,6 +12,7 @@ def binary_search_iterative(arr, target):
             right = mid - 1
             
     return -1  
+    
 
 arr = [2, 4, 6, 8, 10, 12, 14]
 target = 10
