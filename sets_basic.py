@@ -12,3 +12,11 @@ for x in listSet2:
 
 listSet3.add(6)
 print(listSet3)
+
+mylist = {"apple", "banana", "cherry"}
+
+mylist.add("orange")
+print(mylist)
+
+listSet.update(mylist)
+print(listSet)
