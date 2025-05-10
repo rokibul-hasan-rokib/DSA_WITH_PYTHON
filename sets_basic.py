@@ -20,3 +20,8 @@ print(mylist)
 
 listSet.update(mylist)
 print(listSet)
+
+listSet.remove(1)
+print(listSet)
+listSet.discard(2)
+print(listSet)
