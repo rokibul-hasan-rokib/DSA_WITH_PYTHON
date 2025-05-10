@@ -25,3 +25,6 @@ listSet.remove(1)
 print(listSet)
 listSet.discard(2)
 print(listSet)
+
+set1 = listSet2.union(listSet)
+print(set1)
