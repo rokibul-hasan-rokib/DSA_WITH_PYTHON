@@ -9,3 +9,6 @@ print(listSet)
 
 for x in listSet2:
     print(x)
+
+listSet3.add(6)
+print(listSet3)
