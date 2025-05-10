@@ -20,7 +20,7 @@ myfamily = {
     "child3": child3
 }
 
-for x, obj in family.items():
+for x, obj in myfamily.items():
     print(x)
     print(obj["name"])
     print(obj["year"])
