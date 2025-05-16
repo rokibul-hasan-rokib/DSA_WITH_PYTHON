@@ -21,3 +21,9 @@ print(e)
 
 f = math.ceil(1.4)
 print(f)
+
+g = math.floor(1.4)
+print(g)
+
+h = math.pi
+print(h)
