@@ -8,3 +8,7 @@ print(cars)
 
 for x in cars:
     print(x)
+
+cars.remove("Chevy")
+print(cars)
+cars.pop(0)
