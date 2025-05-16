@@ -3,3 +3,6 @@ y = max(5, 10, 25)
 
 print(x)
 print(y)
+
+c = abs(-7.25)
+print(c)
