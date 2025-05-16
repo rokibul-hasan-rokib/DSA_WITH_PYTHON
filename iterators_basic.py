@@ -19,3 +19,5 @@ print(next(myit))  # name
 print(next(myit))  # age
 print(next(myit))  # country
 
+for x in mytuple:
+    print(x)  # apple, banana, cherry
