@@ -6,3 +6,6 @@ print(y)
 
 c = abs(-7.25)
 print(c)
+
+d = pow(4, 3)
+print(d)
