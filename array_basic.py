@@ -12,3 +12,4 @@ for x in cars:
 cars.remove("Chevy")
 print(cars)
 cars.pop(0)
+car.pop(1)
